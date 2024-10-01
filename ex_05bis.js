@@ -8,7 +8,7 @@ return array
 
 let number = 13
 
-console.log(number-array.length)
+console.log(array.length-number)
 
 if (number > array.length) {
 
